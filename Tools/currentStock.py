@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import talib
 
+
 # Stocks to scan
 stock_list = [
     'RELIANCE.NS', 'TCS.NS', 'INFY.NS', 'HDFCBANK.NS', 'ICICIBANK.NS',
